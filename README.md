@@ -1,5 +1,5 @@
-# AI4D-Yor-b-Machine-Translation-Challenge
-Building a ML translator from Yoruba to English on Zindi
+**Building a ML translator from Yoruba to English on Zindi**
+
 Machine translation (MT) is a popular Natural Language Processing (NLP) task which involves the automatic translation of sentences from a source language to a target language. Machine translation models are very sensitive to the domain they were trained on which limit their generalization to multiple domains of interest like legal or medical domains. The problem is more severe in low-resource languages like Yorùbá where the most available datasets used for training are in the religious domain like JW300. How can we train MT models to generalize to multiple domains or quickly adapt to new domains of interest? In this challenge, you are provided with 10,000 Yorùbá to English parallel sentences sourced from multiple domains like news articles, ted talks, movie transcripts, radio transcripts, software localization texts, and other short articles curated from the web. Your task is to train a multi-domain MT model that will perform very well for practical use cases.
 
 The goal of this challenge is to build a machine translation model to translate sentences from Yorùbá language to English language in several domains like news articles, daily conversations, spoken dialog transcripts and books. Your solution will be judged by how well your translation prediction is semantically similar to the reference translation.
